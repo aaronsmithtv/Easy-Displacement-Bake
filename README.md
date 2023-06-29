@@ -18,7 +18,7 @@ After installing Easy Displacement Bake, all it takes to get baking is to first 
 
 Once the calculation has taken place, you will see a visualization of your bake on the mesh already. This means the bake has already taken place - and saving out your maps should be practically instant!
 
-By default, the filename includes the `<udim>` tag. By including this tag in your filename, each UV tile is baked to its respective UDIM position and file. If you have multiple UV tiles on your low resolution geometry, and no UDIM tag specified, then the last iterable tile will be baked.
+By default, the filename includes the `<UDIM>` tag. By including this tag in your filename, each UV tile is baked to its respective UDIM position and file. If you have multiple UV tiles on your low resolution geometry, and no UDIM tag specified, then the last iterable tile will be baked. You may also use the `<UVTILE>` tag, and both UDIM and UVTILE lower-case equivalents.
 
 For advanced users who want to understand the tool further, Easy Displacement Bake includes wiki markup documentation in Houdini that explains each parameter in depth.
 
