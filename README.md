@@ -1,4 +1,4 @@
-# Easy Displacement Bake HDA for Houdini 19.5
+# <img src="https://static.sidefx.com/images/apple-touch-icon.png" width="25" height="25" alt="Hbuild Logo"> Easy Displacement Bake HDA for Houdini 19.5
 
 The Easy Displacement Bake HDA for Houdini is a fast, user-friendly tool designed to streamline and automate the process of baking displacement maps from geometry.
 
