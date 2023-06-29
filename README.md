@@ -4,7 +4,10 @@ The Easy Displacement Bake HDA for Houdini is a fast, user-friendly tool designe
 
 This HDA is implemented in pure VEX, and should also see major speed-up times vs baking in renderers, and the normal conventional baking tools.
 
-<img src="examples/images/elephant_bake_process.jpg" width="900" height="300" alt="Elephant Bake Process">
+<figure>
+  <img src="examples/images/elephant_bake_process.jpg" width="900" height="300" alt="Elephant Bake Process">
+  <figcaption>From left to right: The input low-resolution geometry, the input high-resolution geometry, and the resulting bake (with no additional parameters changed)</figcaption>
+</figure>
 
 ## Key Features
 - **One-Click Solution**: Just plug in your geometry and hit bake. No need to adjust any settings unless you want to.
