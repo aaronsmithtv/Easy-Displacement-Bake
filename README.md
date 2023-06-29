@@ -20,6 +20,8 @@ Once the calculation has taken place, you will see a visualization of your bake 
 
 By default, the filename includes the `<UDIM>` tag. By including this tag in your filename, each UV tile is baked to its respective UDIM position and file. If you have multiple UV tiles on your low resolution geometry, and no UDIM tag specified, then the last iterable tile will be baked. You may also use the `<UVTILE>` tag, and both UDIM and UVTILE lower-case equivalents.
 
+You can also take a look at the [Example .hip File](examples/hip/easy_bake_examples.hip) to see how each feature is used on different use cases.
+
 For advanced users who want to understand the tool further, Easy Displacement Bake includes wiki markup documentation in Houdini that explains each parameter in depth.
 
 ## Feedback
